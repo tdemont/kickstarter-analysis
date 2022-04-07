@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Kickstarter analysis for trends mod
+# An Analysis of Kickstarter Campaigns
+Kickstarter analysis for successful trends.

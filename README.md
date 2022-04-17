@@ -16,3 +16,5 @@ From among a wide array of different Kickstarter campaigns, we have chosen to fo
 ##Results
 
 	One of the most notieceable trends of the data is that the majority of successful campaigns being in late spring and early summer.
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+

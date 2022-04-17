@@ -16,6 +16,7 @@ From among a wide array of different Kickstarter campaigns, we have chosen to fo
 
 
 ##Results
+
 	###Outcomes by Month
 	One of the most noticeable trends of the data is that the majority of successful campaigns begin in late spring and early summer.  The above screenshots
 highlight the success of campaigns that begin in April through July - with May launches being the most successful of all.  Additionally, the data illustrates the failure of productions 
